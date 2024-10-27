@@ -1,5 +1,5 @@
 name: "Twingate Connector"
-version: "1.0.1"
+version: "1.0.2"
 slug: "twingate_connector"
 description: "A Home Assistant add-on to run the Twingate Connector for secure remote access."
 arch:
