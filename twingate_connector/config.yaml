@@ -11,9 +11,9 @@ arch:
 startup: services
 boot: auto
 options:
-  twingate_network: "your_network_name_here"
-  twingate_access_token: "your_access_token_here"
-  twingate_refresh_token: "your_refresh_token_here"
+  twingate_network: ""
+  twingate_access_token: ""
+  twingate_refresh_token: ""
 schema:
   twingate_network: str
   twingate_access_token: str
