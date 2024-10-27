@@ -6,4 +6,4 @@ ENV TWINGATE_REFRESH_TOKEN=${REFRESH_TOKEN}
 ENV TWINGATE_LABEL_HOSTNAME=homelabPi1
 ENV TWINGATE_LABEL_DEPLOYED_BY=docker
 
-CMD ["bash", "-c", "while true; do sleep 1000; done"]
+CMD ["sh", "-c", "while true; do sleep 1000; done"]
